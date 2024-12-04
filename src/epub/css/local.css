@@ -6,3 +6,7 @@ header{
 	margin: 1em;
 	text-align: center;
 }
+
+[epub|type~="se:temperature"]{
+	font-variant: all-small-caps;
+}
